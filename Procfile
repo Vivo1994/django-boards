@@ -1,1 +1,1 @@
-web: gunicorn django-boards.wsgi --log-file -
+web: gunicorn dep:app
