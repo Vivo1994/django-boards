@@ -1,1 +1,0 @@
-web: gunicorn django-boards.wsgi --log-file -
